@@ -20,7 +20,7 @@
 - Database : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><br><br>
 > ### Result (2023.12.27 updated)
 > `혼놀 노션페이지` <br>
-https://www.notion.so/goorm-uuju/Honnol-b3ceccdba8d740eabb69f7294534f3b6?pvs=4<br>
+https://goorm-uuju.notion.site/Honnol-b3ceccdba8d740eabb69f7294534f3b6?pvs=4<br>
 <div> 
   <img src="./signup.png">
   <img src="./main_page.png">
